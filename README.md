@@ -51,12 +51,4 @@ The dataset includes:
 - **Average sentiment score** across all customers is moderate.
 - **Churn rate is 9.2%**, signaling potential retention strategies needed.
 
-## How to Use
-
-1. Open the Excel file (`Customer_Dashboard.xlsx`)
-2. Use the slicers on the left to filter data by Gender, Region, Tier, or Churn Risk.
-3. Hover over charts and shapes for interactive visuals.
-4. Modify or expand the dataset as needed to analyze different dimensions.
-
-## Folder Structure
 
